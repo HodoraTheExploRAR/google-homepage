@@ -1,2 +1,4 @@
 # google-homepage
-trying recreate google.com
+Google Homepage Recreation
+
+theodinproject.com
