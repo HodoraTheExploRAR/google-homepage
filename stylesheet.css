@@ -1,0 +1,120 @@
+<style type="text/css">
+
+.body {
+	margin: 0px;
+	background: #fff;
+}
+.navbar {
+	width: 100%;
+	clear:both;
+	margin: 0px;
+	height: 20px;
+	font-size: 13px;
+	font-family: arial, sans-serif;
+	
+}
+
+.user_name {
+	float: right;
+  	padding-left: 10px;
+  	padding-right: 10px;
+  	position: relative;
+  	text-align: right;
+}
+
+.images {
+	float: right;
+  	padding-left: 10px;
+  	padding-right: 10px;
+  	position: relative;
+  	text-align: right;
+}
+
+.inbox {
+	float: right;
+  	padding-left: 10px;
+  	padding-right: 10px;
+  	position: relative;
+  	text-align: right;
+}
+
+.app_picker {
+	float: right;
+  	padding-left: 10px;
+  	padding-right: 10px;
+  	position: relative;
+  	text-align: right;
+}
+
+.center {
+	clear: both;
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	padding-top: 160px;
+}
+
+input {
+	width: 100%;
+	font-size: 16px;
+	font-weight: bold;
+	height: 30px;
+
+}
+
+.SearchSubmit {
+	width: 48%;
+	padding-top: 5px;
+	float: left;
+	text-align: center;
+	vertical-align: center;
+}
+
+.imfeelinglucky {
+	width: 48%;
+	padding-top: 5px;
+	text-align: center;
+	float: right;
+}
+
+.searchbar {
+	display: inline-block;
+	width: 50%%;
+
+}
+
+#logo {
+	height: 95px;
+	padding-bottom: 20px;
+}
+
+#searchbar {
+	text-align: right;
+}
+
+a:link {
+	text-decoration: none;
+	color: #E0E0EB;
+}
+
+a:visited {
+	color: #E0E0EB;
+}
+a:hover {
+	color: #000000;
+}
+
+a:focus {
+	color: #E0E0EB;
+}
+
+#text_at_bottom {
+	text-align: center;
+	font-size: small;
+	font-family: arial, sans-serif;
+}
+
+#kanye_link {
+	text-decoration: underline;
+	color: blue;
+}
